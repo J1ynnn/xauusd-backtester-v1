@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# price data (broker data, not for redistribution)
+*.csv
+
+# editor and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints (if you use notebooks)
+.ipynb_checkpoints/
